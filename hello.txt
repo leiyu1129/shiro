@@ -7,4 +7,5 @@ hello git   hot-fix
 hello git   hot-fix
 hello git   hot-fix
 hello git   hot-fix
-chongtu
+master test
+hot-fix test
